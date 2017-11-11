@@ -1,10 +1,10 @@
 // Write your code in this file!
 function scuberGreetingForFeet(){
-  if (ride <=400) {
-    return 'You can get a free sample!'
-  } else if (ride < 2500) {
-      return 'You owe $30'
-    else if (ride > 2500) {
+  if (feet <=400) {
+    return 'This one is on me!'
+  } else if (1999 < feet && feet < 2500) {
+      return 'I will take you for $30'
+    else if (feet > 2500) {
       return 'You cannot ride.'
     }
   }
