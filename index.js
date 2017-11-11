@@ -8,4 +8,3 @@ function scuberGreetingForFeet(){
       return 'You cannot ride.';
   }
 }
-
